@@ -1,0 +1,29 @@
+body{
+	background: lightsteelblue;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul{
+	color: purple;
+	list-style-position: inside;
+	text-align: center;	
+}
+
+h1{
+	color: yellow;
+}
+
+h2{
+	color: orangered;
+	text-decoration: underline;
+}
+
+h3{
+	color: blue;
+}
+
+p{
+	color: green;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}

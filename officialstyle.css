@@ -1,0 +1,35 @@
+body{
+	background-image: url(https://www.clipartsgram.com/image/236730107-hd-website-backgrounds-14.jpg);
+	text-align: center;
+	font-family: Century Gothic, sans-serif;
+	color: white;
+}
+
+
+a:link, a:visited {
+    color: white;
+    display: list-item;
+	font-size: 25px;
+}
+
+
+a:hover, a:active {
+    font-size: 100px;
+	text-decoration: underline;
+}
+
+ul{
+	text-align: center;	
+}
+
+h1{
+	font-size: 50px;
+}
+
+h2{
+	font-size: 40px;
+}
+
+h3{
+	font-size: 30px;
+}
