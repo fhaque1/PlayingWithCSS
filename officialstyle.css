@@ -1,5 +1,5 @@
 body{
-	background-image: url(https://www.clipartsgram.com/image/236730107-hd-website-backgrounds-14.jpg);
+	background-image: url(http://www.clker.com/cliparts/f/6/5/d/14118920021028577680yellow%20and%20dark%20pink%20red%20background.jpg);
 	text-align: center;
 	font-family: Century Gothic, sans-serif;
 	color: white;
@@ -16,6 +16,7 @@ a:link, a:visited {
 a:hover, a:active {
     font-size: 100px;
 	text-decoration: underline;
+	color: black;
 }
 
 ul{
@@ -33,3 +34,26 @@ h2{
 h3{
 	font-size: 30px;
 }
+
+.extreme:hover{
+	text-shadow: 4px 4px 7px red;
+}
+
+.navzone:hover{
+	text-shadow: 4px 4px 7px orange;
+}
+
+.content:hover{
+	text-shadow: 4px 4px 7px yellow;
+}
+
+.prose:hover{
+	text-shadow: 4px 4px 20px black;
+}
+
+
+div:hover{
+	color: black;
+}
+
+
